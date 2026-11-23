@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield",
+  "description": "Check suspicious SMS and WhatsApp messages for scam tricks in English, Hindi, and Marathi.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

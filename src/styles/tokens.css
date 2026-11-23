@@ -1,0 +1,38 @@
+:root {
+  /* Core space & depth */
+  --bg-space: #070b1a;
+  --bg-deep: #0e1530;
+
+  /* Aurora accents */
+  --aurora-violet: #7c6cff;
+  --aurora-cyan: #3de0ff;
+  --aurora-pink: #ff9bd2;
+
+  /* Glass surfaces */
+  --glass-bg: rgba(255, 255, 255, 0.06);
+  --glass-bg-hover: rgba(255, 255, 255, 0.09);
+  --glass-border: rgba(255, 255, 255, 0.14);
+  --glass-inner-glow: rgba(255, 255, 255, 0.08);
+  --glass-blur: 16px;
+
+  /* Typography */
+  --text-main: #f4f6ff;
+  --text-muted: #a9b1d6;
+  --text-on-bright: #0a0f24;
+
+  /* Primary gradient */
+  --gradient-primary: linear-gradient(135deg, #7c6cff 0%, #3de0ff 100%);
+  --gradient-primary-glow: rgba(61, 224, 255, 0.28);
+
+  /* Meaning colors (used ONLY for verdicts & SOS help) */
+  --verdict-scam: #ff5c8a;
+  --verdict-caution: #ffc24d;
+  --verdict-clear: #4cf2b0;
+
+  /* Radii & fonts */
+  --radius-card: 28px;
+  --radius-pill: 9999px;
+  --font-heading: 'Sora', 'Noto Sans Devanagari', sans-serif;
+  --font-body: 'Nunito', 'Noto Sans Devanagari', sans-serif;
+  --font-mono: 'JetBrains Mono', 'Noto Sans Devanagari', monospace;
+}
